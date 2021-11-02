@@ -18,6 +18,13 @@
      android:layout_height="wrap_content"
      android:text=" 변수활용연습2"/>
 
+ <Button
+     android:id="@+id/btncodition01"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:text=" 조건문 연습1"/>
+
+
 
 
 </LinearLayout>
